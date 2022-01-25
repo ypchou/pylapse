@@ -28,5 +28,6 @@
 
 - In linux need to fix the select so it won't wait until the enter is pressed..
   it should work like it's on windows
+  
 /** 作者說明網址 **/
 http://www.whatimade.today/timelapse-your-holidays/
